@@ -24,4 +24,5 @@ Actualmente Gmail compite en el mercado de servicios de correo electrónico con 
 |Espacio Gratuito|15 GB entre Gmail, Google Docs, Google Drive y Google Fotos |1 TB |
 |Ecosistema|Obtienes un conjunto de aplicaciones de clase mundial con una cuenta de Gmail, incluyendo Google Docs, Google Agenda y Google Drive | Las aplicaciones de Yahoo no son inutilizables; simplemente no son muy buenas |
 
+
 ![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2004-Gmail-MarcGarcia/blob/main/Competencia.jpg "Competencias")
