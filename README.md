@@ -1,14 +1,17 @@
 # Gmail
 ## Autor
 Gmail fue creado por [Paul Buccheit](https://es.wikipedia.org/wiki/Paul_Buchheit "Bibliografia de Paul"), un ingeniero de software que trabajaba para Google. Fue el principal desarrollador detrás de Gmail y se le atribuyo la idea de un servicio de correo electrónico gratuito basado en la web con una amplia capacidad de almacenamiento.
+
 ![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2004-Gmail-MarcGarcia/blob/main/Paul.jpg "Paul")
 
 ## Como se creó
 Gmail se desarrolló en el año 2004 en un proyecto interno de Google conocido como "Proyecto Caribou" o "Google Mail" en sus primeras etapas. Paul Buchheit lideró el equipo de desarrollo. Esa creación de Gmail revolucionaria en su época el  enfoque en la capacidad de almacenamiento y la búsqueda avanzada.
 
+![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2004-Gmail-MarcGarcia/blob/main/CREACION%20GMAIL.jpg "Creacion")
 
 ## Repercusión a lo largo de la historia
 La introducción de Gmail en 2004 tuvo un gran impacto en la industria del correo electrónico. Al ofrecer una cantidad significativamente mayor de almacenamiento gratuito y una búsqueda efectiva, cambió la forma en que las personas gestionaban sus correos electrónicos. Esto llevó a otros proveedores de correo electrónico a aumentar sus capacidades de almacenamiento y a mejorar sus servicios de búsqueda para mantenerse competitivos.
+
 ![U+200E|700](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2004-Gmail-MarcGarcia/blob/main/Repercusion.jpg "Repercusion")
 
 ## Competencias que han aparecido
