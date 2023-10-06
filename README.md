@@ -17,4 +17,11 @@ La introducción de Gmail en 2004 tuvo un gran impacto en la industria del corre
 ## Competencias que han aparecido
 Actualmente Gmail compite en el mercado de servicios de correo electrónico con otros proveedores populares como Yahoo Mail, Outlook  y servicios más recientes como Apple Mail. A lo largo de los años, ha ido incorporado varias características y herramientas, como Google Drive, Google Calendar y Google Workspace, lo que lo convierte en una solución de correo electrónico poderosa y versátil tanto para usuarios individuales como para empresas.
 
+
+|     |Gmail 💻✉️ |Yahoo Mail 📬 |
+|----------|----------:|----------:|
+|Experiencia General|El estándar de referencia desde su lanzamiento en 2004 |Un servicio de correo electrónico decente perjudicado por anuncios intrusivos y la falta de algunas características modernas |
+|Espacio Gratuito|15 GB entre Gmail, Google Docs, Google Drive y Google Fotos |1 TB |
+|Ecosistema|Obtienes un conjunto de aplicaciones de clase mundial con una cuenta de Gmail, incluyendo Google Docs, Google Agenda y Google Drive | Las aplicaciones de Yahoo no son inutilizables; simplemente no son muy buenas |
+
 ![U+200E](https://github.com/marcgarciia18/SMX2-M8UF1A1-HistoriaWeb-2004-Gmail-MarcGarcia/blob/main/Competencia.jpg "Competencias")
